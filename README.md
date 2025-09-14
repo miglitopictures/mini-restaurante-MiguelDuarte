@@ -1,0 +1,2 @@
+# Bar do Cenoura
+O site do Bar do Cenoura é um exercício de HTML e CSS, proposto no primeiro periodo da cadeira de Introdução à Computação (Profª. Rafaella Matos). Foi divertido de explorar CSS, mas da próxima vez eu quero me planejar um pouco melhor antes de começar a programar. Pensar no layout antes de fazer lkjk. Parece meio obvio, mas achei que por ser um exercicio "simples", eu conseguiria simplesmente "ir fazendo", mas rapidamente ficou meio confuso.
